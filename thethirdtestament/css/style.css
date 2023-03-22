@@ -292,16 +292,19 @@ footer {
 }
 
 .social-media .fa-facebook:hover {
-    color: #395692;
+    color: #3C599F;
 }
 .social-media .fa-linkedin:hover {
-    color: #007FB2;
+    color: #0085AE;
 }
 
 .social-media .fa-youtube:hover {
-        color: #f00;
+        color: #C52F30;
 }
 
+.social-media .fa-twitter:hover {
+    color: #32CCFE;
+}
 
 
 /* Default breakpoints */
